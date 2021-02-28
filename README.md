@@ -35,25 +35,41 @@ This domain basically states whether the perceiving trait or the judging trait i
 The 16 personality types are:
 
 •	ISTJ - The Inspector / Logistician.
+
 •	ISTP – The Crafter.
+
 •	ISFJ - The Protector.
+
 •	ISFP - The Artist.
+
 •	INFJ - The Advocate.
+
 •	INFP - The Mediator.
+
 •	INTJ - The Architect.
+
 •	INTP - The Thinker.
+
 •	ESTP - The Persuader.
+
 •	ESTJ - The Director.
+
 •	ESFP - The Performer.
+
 •	ESFJ - The Caregiver.
+
 •	ENFP - The Champion / Campaigner.
+
 •	ENFJ - The Giver / Protagonist.
+
 •	ENTP - The Debater.
+
 •	ENTJ - The Commander.
 
 ## Hypothesis:
 
 •	Ho = Someone’s personality can be determined by their tweets.
+
 •	Ha = Someone’s personality cannot be determined by their tweets.
 
 The goal is to build a machine learning algorithm that attempt to determine someone’s personality in base of their tweets.
@@ -73,16 +89,25 @@ The team will meet weekly (Tuesdays and Thursdays) via Zoom, and on the weekends
 
 The roles for each team member are:
 
+
 •	Square Role (GitHub): Katiusca Quijada.
+
 •	Triangle Role (Machine Learning): Jose Monagas.
+
 •	Circle Role (Database): Eric Wyluda.
+
 •	X Role (Technology): Christopher Guilcapi.
+
 
 GitHub is the chosen platform to collaborate as a team with this project. All final code will be pushed to the `main` branch, but each collaborator has its own branch:
 
+
 •	`Kati_branch`.
+
 •	`Jose_branch`.
+
 •	`Eric_branch`.
+
 •	`Chris_branch`.
 
 All team members will notifie the Square to create a pull request when their portion of their assignment has been pushed to the repo, and the Square will resolve the issues after each pull request and merge it to the main branch. The Square to notified via Slack each member of the team when the `main` branch is updated and ready for a “git pull.”
