@@ -34,6 +34,7 @@ This domain basically states whether the perceiving trait or the judging trait i
 
 The 16 personality types are:
 
+
 ![The_Ambassadors_png](https://github.com/KatiuscaQ/Myers_Briggs_Type_Indicator/blob/main/Resources/The_ambassadors.PNG)
 
 ![The_Thinkers_png](https://github.com/KatiuscaQ/Myers_Briggs_Type_Indicator/blob/main/Resources/The_thinkers.PNG)
