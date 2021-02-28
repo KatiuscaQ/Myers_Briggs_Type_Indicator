@@ -34,37 +34,18 @@ This domain basically states whether the perceiving trait or the judging trait i
 
 The 16 personality types are:
 
-•	ISTJ - The Inspector / Logistician.
 
-•	ISTP – The Crafter.
+![The_Ambassadors_png](https://github.com/KatiuscaQ/Myers_Briggs_Type_Indicator/blob/main/Resources/The_ambassadors.PNG)
 
-•	ISFJ - The Protector.
+![The_Thinkers_png](https://github.com/KatiuscaQ/Myers_Briggs_Type_Indicator/blob/main/Resources/The_thinkers.PNG)
 
-•	ISFP - The Artist.
+![The_Guardians_png](https://github.com/KatiuscaQ/Myers_Briggs_Type_Indicator/blob/main/Resources/The_guardians.PNG)
 
-•	INFJ - The Advocate.
+![The_Explores_png](https://github.com/KatiuscaQ/Myers_Briggs_Type_Indicator/blob/main/Resources/The_explorers.PNG)
 
-•	INFP - The Mediator.
 
-•	INTJ - The Architect.
+*Disclaimer: illustrations taken from [here](https://www.16personalities.com/personality-types)*
 
-•	INTP - The Thinker.
-
-•	ESTP - The Persuader.
-
-•	ESTJ - The Director.
-
-•	ESFP - The Performer.
-
-•	ESFJ - The Caregiver.
-
-•	ENFP - The Champion / Campaigner.
-
-•	ENFJ - The Giver / Protagonist.
-
-•	ENTP - The Debater.
-
-•	ENTJ - The Commander.
 
 ## Hypothesis:
 
