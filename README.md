@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is based on this Kaggle dataset.
+This project is based on this [Kaggle dataset](https://www.kaggle.com/datasnaek/mbti-type).
 
 In this dataset tweets from various accounts on Twitter were gather, to each account a Myers-Briggs Personality Type was assigned (column “type”), and the last 50 tweets from each account were collected (column “posts”).
 
