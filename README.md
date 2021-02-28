@@ -8,7 +8,7 @@ In this dataset tweets from various accounts on Twitter were gather, to each acc
 
 ### Myers-Briggs Personality Type
 
-“The purpose of the Myers-Briggs Type Indicator® (MBTI®) personality inventory is to make the theory of psychological types described by C. G. Jung understandable and useful in people's lives. The essence of the theory is that much seemingly random variation in the behavior is actually quite orderly and consistent, being due to basic differences in the ways individuals prefer to use their perception and judgment.” -[Resource](https://www.myersbriggs.org/my-mbti-personality-type/mbti-basics/)
+“The purpose of the Myers-Briggs Type Indicator® (MBTI®) personality inventory is to make the theory of psychological types described by C. G. Jung understandable and useful in people's lives. The essence of the theory is that much seemingly random variation in the behavior is actually quite orderly and consistent, being due to basic differences in the ways individuals prefer to use their perception and judgment.” -[Source](https://www.myersbriggs.org/my-mbti-personality-type/mbti-basics/)
 
 The MBTI divides people’s personalities into 16 personality types, across 4 axes:
 
