@@ -53,7 +53,7 @@ The 16 personality types are:
 
 •	Ha = Someone’s personality cannot be determined by their tweets.
 
-The goal is to build a machine learning algorithm that attempt to determine someone’s personality in base of their tweets.
+The goal is to build a machine learning algorithm that attempts to determine someone’s personality based on their tweets.
  
 ## Database
 
