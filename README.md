@@ -63,7 +63,7 @@ The goal is to build a machine learning algorithm that attempts to determine som
 
 ## Dashboard 
 
-![Under_construction_png]()
+![Under_construction_png](https://github.com/KatiuscaQ/Myers_Briggs_Type_Indicator/blob/main/Resources/under-construction.png)
 
 
 ## Communication Protocol and GitHub
