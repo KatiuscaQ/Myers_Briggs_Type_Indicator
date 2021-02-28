@@ -60,7 +60,9 @@ The goal is to build a machine learning algorithm that attempt to determine some
 ## Machine Learning Model
 
 
-## Dashboard Presentation
+## Dashboard 
+
+![Under_construction_png]()
 
 
 ## Communication Protocol and GitHub
@@ -82,13 +84,13 @@ The roles for each team member are:
 GitHub is the chosen platform to collaborate as a team with this project. All final code will be pushed to the `main` branch, but each collaborator has its own branch:
 
 
-•	`Kati_branch`.
+•	`Kati_branch`
 
-•	`Jose_branch`.
+•	`Jose_branch`
 
-•	`Eric_branch`.
+•	`Eric_branch`
 
-•	`Chris_branch`.
+•	`Chris_branch`
 
 All team members will notifie the Square to create a pull request when their portion of their assignment has been pushed to the repo, and the Square will resolve the issues after each pull request and merge it to the main branch. The Square to notified via Slack each member of the team when the `main` branch is updated and ready for a “git pull.”
 
