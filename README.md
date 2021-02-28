@@ -57,6 +57,7 @@ The goal is to build a machine learning algorithm that attempts to determine som
  
 ## Database
 
+The preprocessed database can be found [here](https://github.com/KatiuscaQ/Myers_Briggs_Type_Indicator/blob/main/preprocess_data_rev0.ipynb)
 
 ## Machine Learning Model
 
