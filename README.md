@@ -64,7 +64,13 @@ The technology choseen for this project can be found [here](https://github.com/K
 The preprocessed database can be found [here](https://github.com/KatiuscaQ/Myers_Briggs_Type_Indicator/blob/main/preprocess_data_rev0.ipynb)
 
 ## Machine Learning Model
+For this projet, we will "tentatively" use three different types of Machine Learning models which are widely applied for their success when working with Natural Language Processing (NLP):
 
+* Multinomial Naive Bayes 
+* Linear Support Vector Machine (unsupervised learning)
+* Neural Network
+
+For this stage, we have created a mockup Machine Learning model using SVM.
 
 ## Dashboard 
 
