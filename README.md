@@ -55,7 +55,7 @@ The 16 personality types are:
 
 The goal is to build a machine learning algorithm that attempts to determine someone’s personality based on their tweets.
 
-## Technology to be used
+## Technology 
 
 The technology choseen for this project can be found [here](https://github.com/KatiuscaQ/Myers_Briggs_Type_Indicator/blob/main/technology.md)
  
