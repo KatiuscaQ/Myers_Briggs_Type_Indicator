@@ -67,10 +67,10 @@ The preprocessed database can be found [here](https://github.com/KatiuscaQ/Myers
 For this projet, we will "tentatively" use three different types of Machine Learning models which are widely applied for their success when working with Natural Language Processing (NLP):
 
 * Multinomial Naive Bayes 
-* Linear Support Vector Machine (unsupervised learning)
+* Linear Support Vector Machine (supervised learning)
 * Neural Network
 
-For this stage, we have created a mockup Machine Learning model using SVM.
+For this stage, we have created a mockup Machine Learning model using SVM. The spacy library was used to do the language processing since we were working with a large amount of text data. 
 
 ## Dashboard 
 
