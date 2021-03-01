@@ -9,4 +9,4 @@ Postgres with pgAdmin is the database we intend to use, and we will integrate a 
 SKlearn is the ML library we'll be using to create a classifier. Our training and testing setup will be looking at the Naive Bayes, Random Forest, and Logistic Regression approach to build a machine learning model. This will help us with our overall goal of classifying social media posts into the correct Myer Briggs personality type.
 
 ## Dashboard
-We will be creating a Tableau Public dashboard for a fully functioning and interactive platform to showcase our data and results. It will be hosted on the Tableau Public platform and made visible to all so that the dashboard is able to be viewed by all.
+We will be creating a Tableau Public dashboard for a fully functioning and interactive platform to showcase our data and results. It will be hosted on the Tableau Public platform and made visible to all so that the dashboard is easily accessible.
