@@ -74,7 +74,9 @@ For this stage, we have created a mockup Machine Learning model using SVM. The s
 
 ## Dashboard 
 
-![Under_construction_png](https://github.com/KatiuscaQ/Myers_Briggs_Type_Indicator/blob/main/Resources/under-construction.png)
+Through the use of Tableau Public, an interactive dashboard to showcase our project and ML results will be used by our viewers. The dashboard will allow the viewer to choose or find out which personality type they are and in turn, they will also see another interesting fact, a celebrity that is similar to them. The ETL process of the data provided many useful charts and images to showcase such as the distribution of Myer-Briggs Personality Types in the Dataset, Top 25 Word Frequencies Used, and a word cloud. 
+
+![](/Resources/Tableau_logo.jpeg)
 
 
 ## Communication Protocol and GitHub
