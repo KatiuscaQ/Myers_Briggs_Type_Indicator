@@ -61,15 +61,15 @@ The technology choseen for this project can be found [here](https://github.com/K
  
 ## Database
 
-The preprocessed database can be found [here](https://github.com/KatiuscaQ/Myers_Briggs_Type_Indicator/blob/main/preprocess_data_rev0.ipynb)
+The preprocessed database can be found [here](https://github.com/KatiuscaQ/Myers_Briggs_Type_Indicator/blob/main/preprocess_data.ipynb)
 
 ## Machine Learning Model
+
 Three different types of Machine Learning models were used. These are widely applied for their success when working with Natural Language Processing (NLP):
 
 * [Random Forest](https://github.com/KatiuscaQ/Myers_Briggs_Type_Indicator/blob/main/Machine%20Learning.ipynb) 
 * [Neural Network](https://github.com/KatiuscaQ/Myers_Briggs_Type_Indicator/blob/main/Machine%20Learning.ipynb)
 * [Linear Support Vector Machine (supervised learning)](https://github.com/KatiuscaQ/Myers_Briggs_Type_Indicator/blob/main/SVM_Prototype.ipynb)
-
 
 
 ## Dashboard 
