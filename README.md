@@ -61,16 +61,16 @@ The technology choseen for this project can be found [here](https://github.com/K
  
 ## Database
 
-The preprocessed database can be found [here](https://github.com/KatiuscaQ/Myers_Briggs_Type_Indicator/blob/main/preprocess_data_rev0.ipynb)
+The preprocessed database can be found [here](https://github.com/KatiuscaQ/Myers_Briggs_Type_Indicator/blob/main/preprocess_data.ipynb)
 
 ## Machine Learning Model
-For this projet, we will "tentatively" use three different types of Machine Learning models which are widely applied for their success when working with Natural Language Processing (NLP):
 
-* Multinomial Naive Bayes 
-* Linear Support Vector Machine (supervised learning)
-* Neural Network
+Three different types of Machine Learning models were used. These are widely applied for their success when working with Natural Language Processing (NLP):
 
-For this stage, we have created a mockup Machine Learning model using SVM. The spacy library was used to do the language processing since we were working with a large amount of text data. 
+* [Random Forest](https://github.com/KatiuscaQ/Myers_Briggs_Type_Indicator/blob/main/Machine%20Learning.ipynb) 
+* [Neural Network](https://github.com/KatiuscaQ/Myers_Briggs_Type_Indicator/blob/main/Machine%20Learning.ipynb)
+* [Linear Support Vector Machine (supervised learning)](https://github.com/KatiuscaQ/Myers_Briggs_Type_Indicator/blob/main/SVM_Prototype.ipynb)
+
 
 ## Dashboard 
 
@@ -79,33 +79,7 @@ Through the use of Tableau Public, an interactive dashboard to showcase our proj
 ![](/Resources/Tableau_logo.jpeg)
 
 
-## Communication Protocol and GitHub
-
-The team will meet weekly (Tuesdays and Thursdays) via Zoom, and on the weekends if needed. There is also, an open communication via Slack.
-
-The roles for each team member are:
 
 
-•	Square Role (GitHub): Katiusca Quijada.
-
-•	Triangle Role (Machine Learning): Jose Monagas.
-
-•	Circle Role (Database): Eric Wyluda.
-
-•	X Role (Technology): Christopher Guilcapi.
-
-
-GitHub is the chosen platform to collaborate as a team with this project. All final code will be pushed to the `main` branch, but each collaborator has its own branch:
-
-
-•	`Kati_branch`
-
-•	`Jose_branch`
-
-•	`Eric_branch`
-
-•	`Chris_branch`
-
-All team members will notifie the Square to create a pull request when their portion of their assignment has been pushed to the repo, and the Square will resolve the issues after each pull request and merge it to the main branch. The Square to notified via Slack each member of the team when the `main` branch is updated and ready for a “git pull.”
 
 
