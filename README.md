@@ -4,16 +4,16 @@
 
 This project is based on this [Kaggle dataset](https://www.kaggle.com/datasnaek/mbti-type).
 
-In this dataset tweets from various accounts on Twitter were gather, to each account a Myers-Briggs Personality Type was assigned (column “type”), and the last 50 tweets from each account were collected (column “posts”).
+The last 50 tweets from various accounts on Twitter were gathered (column: “posts”) and a Myers-Briggs Personality Type was assigned (column “type”). Using Machine Learning (SVM, Random Forest, and Neural Networks), the dataset was analyzed to see if we could correctly predit the personality type based on their tweets.
 
 ### Myers-Briggs Personality Type
 
-“The purpose of the Myers-Briggs Type Indicator® (MBTI®) personality inventory is to make the theory of psychological types described by C. G. Jung understandable and useful in people's lives. The essence of the theory is that much seemingly random variation in the behavior is actually quite orderly and consistent, being due to basic differences in the ways individuals prefer to use their perception and judgment.” -[Source](https://www.myersbriggs.org/my-mbti-personality-type/mbti-basics/)
+“The purpose of the Myers-Briggs Type Indicator® (MBTI®) personality inventory is to make the theory of psychological types described by C. G. Jung understandable and useful in people's lives. The essence of the theory is that seemingly random variation in behavior is actually quite orderly and consistent, being due to basic differences in the ways individuals prefer to use their perception and judgment.” -[Source](https://www.myersbriggs.org/my-mbti-personality-type/mbti-basics/)
 
 The MBTI divides people’s personalities into 16 personality types, across 4 axes:
 
 ### •	Extroverted/Introverted (E/I):
-This axis differentiates were a person gets their energy from:
+This axis differentiates where a person gets their energy from:
 -	Extroverts gain energy from being around other people: talking, conversing, being noticed, etc. They can be alone but will get tired without contact.
 -	Introverts gain energy from being alone and clearing their thoughts. Opposite to extroverts, introverts have the capability to socialize quite effectively; but their alone time is a must.
 
@@ -25,12 +25,12 @@ Here, the differences lie in how the individual perceives their world.
 ### •	Thinking/Feeling (T/F):
 This domain deals with how the individual judges the information they have perceived.
 -	Thinkers (T) apply logical reasoning, make decisions using impersonal criteria, and focus on tasks.
--	Feelers (F) apply individual values, make decisions by personal circumstances, and focus on relationship.
+-	Feelers (F) apply individual values, make decisions by personal circumstances, and focus on relationships.
 
 ### •	Judgmental/Perceiving (J/P):
 This domain basically states whether the perceiving trait or the judging trait is the dominant trait of the individual.
--	Judgers (J) tend to like a planned and organized approach to life, prefer to have tings settled, and love structure.
--	Perceivers (P) tend lo like a flexible and spontaneous approach to life, prefer to keep their options open, and love freedom.
+-	Judgers (J) tend to like a planned and organized approach to life, prefer to have things settled, and enjoy structure.
+-	Perceivers (P) tend lo like a flexible and spontaneous approach to life, prefer to keep their options open, and enjoy freedom.
 
 The 16 personality types are:
 
@@ -74,7 +74,9 @@ Three different types of Machine Learning models were used. These are widely app
 
 ## Dashboard 
 
-Through the use of Tableau Public, an interactive dashboard to showcase our project and ML results will be used by our viewers. The dashboard will allow the viewer to choose or find out which personality type they are and in turn, they will also see another interesting fact, a celebrity that is similar to them. The ETL process of the data provided many useful charts and images to showcase such as the distribution of Myer-Briggs Personality Types in the Dataset, Top 25 Word Frequencies Used, and a word cloud. 
+Through the use of Tableau Public, an interactive dashboard to showcase our project and ML results will be used by our viewers. The dashboard will allow the viewer to find out which personality type they are and in turn, see commonly used words by that personality. The ETL process of the data provided many useful charts and images to showcase such as the distribution of Myer-Briggs Personality Types in the Dataset, Top 25 Word Frequencies Used, and word clouds. 
+
+Click the link [here](https://public.tableau.com/profile/christopher.guilcapi3266#!/vizhome/PersonalityAnalysis/Dashboard1?publish=yes) to explore the live Tableau Public Dashboard:
 
 ![](/Resources/Tableau_logo.jpeg)
 
