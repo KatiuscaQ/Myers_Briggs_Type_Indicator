@@ -76,6 +76,8 @@ Three different types of Machine Learning models were used. These are widely app
 
 Through the use of Tableau Public, an interactive dashboard to showcase our project and ML results will be used by our viewers. The dashboard will allow the viewer to find out which personality type they are and in turn, see commonly used words by that personality. The ETL process of the data provided many useful charts and images to showcase such as the distribution of Myer-Briggs Personality Types in the Dataset, Top 25 Word Frequencies Used, and word clouds. 
 
+Click the link [here](https://public.tableau.com/profile/christopher.guilcapi3266#!/vizhome/PersonalityAnalysis/Dashboard1?publish=yes) to explore the live Tableau Public Dashboard:
+
 ![](/Resources/Tableau_logo.jpeg)
 
 
