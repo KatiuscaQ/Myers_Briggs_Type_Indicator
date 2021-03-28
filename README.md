@@ -81,6 +81,14 @@ Click the link [here](https://public.tableau.com/profile/christopher.guilcapi326
 ![](/Resources/Tableau_logo.jpeg)
 
 
+## Analysis
+
+•	Larger (n) increases accuracy, our dataset included tweets from 8,675 users with over 50% belonging to 3 personality types.
+
+•	Sentiment analysis would be explored in further analysis, by which certain words would be positively or negatively weighted based on their correlation to certain personality types.
+
+•	The models misclassify a lot of data by predicting the personality types that are overrepresented. One way to improve this model is by regularizing and penalizing the data points so that the dataset is not so skewed.
+
 
 
 
