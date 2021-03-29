@@ -4,7 +4,7 @@
 
 This project is based on this [Kaggle dataset](https://www.kaggle.com/datasnaek/mbti-type).
 
-The last 50 tweets from various accounts on Twitter were gathered (column: “posts”) and a Myers-Briggs Personality Type was assigned (column “type”). Using Machine Learning (SVM, Random Forest, and Neural Networks), the dataset was analyzed to see if we could correctly predit the personality type based on their tweets.
+The last 50 tweets from various accounts on Twitter were gathered (column: “posts”) and a Myers-Briggs Personality Type was assigned (column “type”). Using Machine Learning (SVM, Random Forest, and Neural Networks), the dataset was analyzed to see if we could correctly predict the personality type based on their tweets.
 
 ### Myers-Briggs Personality Type
 
